@@ -1,0 +1,108 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  /* width: 50%; */
+  border: 2px solid grey;
+  padding: 4px;
+  border-radius: 15px;
+  width:50%;
+  margin-left:100px;
+  
+ 
+  
+}
+
+h1 {
+  font-family: 'Ubuntu Mono', monospace;
+  color:black;
+  background-color:rgba(0, 0, 0, 0);
+  padding: 15px;
+  margin-top: 0%;
+  margin-bottom:0%;
+ 
+}
+
+.market {
+  background-color:green;
+  /* margin-bottom: none; */
+  color: #f7ecffb0;
+  
+}
+
+.market p {
+  margin-left: 15px;
+  margin-bottom: 0%;
+  padding-bottom: 15px;
+  font-family:  cursive;
+  font-size:large;
+  line-height: 1.5;
+ 
+}
+.categories {
+  margin-top: 0%;
+  background-color:forestgreen;
+  padding-bottom: 15px;
+  line-height: 1.5;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #d7faf7bb;
+
+ 
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+.adress {
+  background-color:darkseagreen;
+  padding-bottom: 15px;
+  line-height: 1.5;
+  
+  
+
+}
+
+
+/* #zero {
+  color: white;
+} */
+
+
+footer p {
+  padding-left: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+ol {
+  padding-left: 15px;
+  list-style-type: none;
+}
+
+.discount {
+  background-color:springgreen;
+}
+
+.discount p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 15px;
+  line-height: normal;
+}
+
+.image {
+  padding-left: 15px;
+  background-color: #d7faf7;
+ 
+}
+
+.form {
+  padding: 15px;
+  background-color:rgb(143, 188, 145)
+}
+
+footer {
+  background-color:rgb(112, 144, 120)
+  
+}
+
